@@ -33,8 +33,20 @@ SECURITYTRAILS_API_KEY=your_key_here
 
 Usage
 python main.py
-Enter a domain, select modules, and run the tool.
 
+## ⏳ Execution Flow
+**Phase 1 (Automatic)**  
+- Subdomain discovery  
+- Domain-to-IP resolution  
+⏱️ ~5–10 minutes, then click **OK** to continue.
+
+**Phase 2 (Optional)**  
+Once confirmed, the tool opens 4–5 terminal windows that close automatically after execution. The full scan may take 10–20 minutes on a high-speed connection.
+- Open ports  
+- Technology & location  
+- Screenshots  
+- Directory enumeration  
+Once confirmed, the tool will automatically open 4–5 terminal windows, which will close after execution. The full scan may take 10–20 minutes on a high-speed connection. 
 ----------------------------------------------------------------------------------------------------------------------
 
 ## 📁 Output
