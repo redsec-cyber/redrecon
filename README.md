@@ -1,4 +1,4 @@
-This tool is intended for **authorized security testing and educational purposes only**.
+⚠️ This tool is intended for **authorized security testing and educational purposes only**.
 
 Users are responsible for:
 - Ensuring they have permission to scan targets
@@ -7,7 +7,7 @@ Users are responsible for:
 
 The maintainer is **not responsible** for misuse or illegal activity.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-## Features
+## ✨ Features
 - Subdomain discovery
 - IP resolution
 - Open port detection
@@ -16,10 +16,11 @@ The maintainer is **not responsible** for misuse or illegal activity.
 - Directory enumeration (🔴active scanning - select carefully)
 - CSV result merger
 
-## Requirements
+## 📦 Requirements
 - Linux (Kali / Ubuntu recommended)
 - Python 3.x
 ----------------------------------------------------------------------------------------------------------------------
+## ⚙️ Setup & Usage
 If you see:
 Error: No supported terminal emulator found
 
@@ -29,9 +30,10 @@ sudo apt install xfce4-terminal
 Add your keys to api_key.txt:
 
 VIRUSTOTAL_API_KEY=your_key_here
+
 SECURITYTRAILS_API_KEY=your_key_here
 
-Usage
+## ▶️ Run
 python main.py
 
 ## ⏳ Execution Flow
