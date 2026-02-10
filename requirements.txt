@@ -1,0 +1,13 @@
+socket
+subprocess
+json
+sys
+re
+platform
+shutil
+tkinter
+argparse
+os
+traceback
+dns.resolver
+dns.reversename

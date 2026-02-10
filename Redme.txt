@@ -1,0 +1,13 @@
+1. Install the required dependencies:
+	#pip install -r requirements.txt  
+
+2. python main.py  
+	2.1 Enter your domain and select all tools when prompted.
+
+	2.2 By default, it will run the subdomain finder and resolve subdomains.
+
+	2.3 Once confirmed, the tool will automatically open 4–5 terminal windows, which will close after execution. The full scan may take 10–20 minutes on a high-speed connection. It includes:
+
+		Open port scanner, Subdomain finder, Directory finder, Location/IP information finder, Backend technology detector, Screenshot capture tool
+
+3. All results will be saved in the "Results" directory. Screenshots will be saved in the "screenshots" directory.
